@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Demo Template</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="description" content="" />
+	
+	<!-- css -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="materialize/css/materialize.min.css" media="screen,projection" />
+	<link href="bootstrap.min.css" rel="stylesheet" />
+	<link href="flexslider.css" rel="stylesheet" /> 
+	<link href="style.css" rel="stylesheet" />
+ 
+
+</head>
+
+<body>
+<div id="wrapper" class="home-page"> 
+	<header class="topbar">
+		<div class="container">
+			<div class="row">
+				<!-- social icon-->
+				<div class="col-sm-3">
+				   <ul class="social-network">
+					<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+					<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				</ul>
+				</div>
+				<div class="col-sm-9">
+					<div class="row">
+						<ul class="info"> 
+							<li><i class="icon-info-blocks material-icons">question_answer</i><span>info@abcd.com</span></li>
+							<li><i class="icon-info-blocks material-icons">perm_phone_msg</i><span>+(012) 123 123</span></li>
+						</ul>
+						
+					</div>
+				</div>
+				<!-- info -->
+
+			</div>
+		</div>
+	</header>
+	<!-- start header -->
+	<header>
+        <div class="navbar navbar-default navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><i class="icon-info-blocks material-icons">polymer</i>XTREAM</a>
+                </div>
+                <div class="navbar-collapse collapse ">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="index.html">Home</a></li> 
+						 <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">About Us <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about.html">ABC</a></li>
+                            <li><a href="#">ABC</a></li>
+                        </ul>
+                    </li> 
+						<li><a href="services.html">Services</a></li>
+                        <li><a href="portfolio.html">Gallery</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+	</header>
+	<!-- end header -->
+	<section id="banner">
+	 
+	<!-- Slider -->
+        <div id="main-slider" class="flexslider">
+            <ul class="slides">
+              <li>
+                <img src="img/1.jpeg" alt="" />
+                <div class="flex-caption">
+                    <h3>Business  Intellect</h3> 
+					<p>We create best opportunities</p> 
+					 
+                </div>
+              </li>
+            </ul>
+        </div>
+	<!-- end slider --> 
+	</section>  
+	<section id="content"> 
+		<div class="container">
+			<section class="services">
+				<div class="row">
+				<div class="col-md-12">
+				<div class="ours"><h2 class="ours">Our Services</h2>jkfhkjhliuiwon n hiefwuoi khi oiu89 ioeug khkhuiiuui k jhi joiuoi,<br/>jhhu vbnj bnvj jhui, jhbj vcgfg gvhgg ghhh gfgdtyy fgggh...</div>
+					<br/>
+				</div>
+				</div>
+				<div class="row">
+				<div class="col-sm-4 info-blocks">  
+					<div class="info-blocks-in">
+					<i class="icon-info-blocks material-icons">perm_identity</i>
+						<h3>Consulting</h3>
+						<div class="line"></div>
+						<p>jkfhk jhliuiw on n hief wuoi khi oeug <br> khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon hhn hikh khuii uui </p>
+					</div>
+				</div>
+				<div class="col-sm-4 info-blocks"> 
+                <div class="info-blocks-in">
+				 <i class="icon-info-blocks material-icons">card_travel</i>
+                    <h3>Finance</h3>
+					<div class="line"></div>
+                    <p>jkfhk jhliuiw on n hief wuoi khi oeug <br> khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon hhn hikh khuii uui </p>
+                </div>
+				</div>
+				<div class="col-sm-4 info-blocks">
+                <div class="info-blocks-in">
+                <i class="icon-info-blocks material-icons">important_devices</i>
+                    <h3>Development</h3>
+					<div class="line"></div>
+                    <p>jkfhk jhliuiw on n hief wuoi khi oeug <br> khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon hhn hikh khuii uui </p>
+                </div>
+				</div>
+			</div> 
+			</section>
+		</div>
+	</section>
+	
+	
+	<section class="process">
+		<div class="container">
+	 	<div class="row">
+			<div class="col-md-12">
+				<div class="ours"><h2 class="ours">Our Process</h2>jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi, <br/>jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon..</div>
+				<br/>
+			</div>
+		</div>
+	
+	<div class="row service-v1 margin-bottom-40">
+            <div class="col-md-4 md-margin-bottom-40">
+					<div class="card small">
+                        <div class="card-image">
+                             <img class="img-responsive" src="img/service1.jpg" alt="">  
+                            <span class="card-title">Designing</span>
+                        </div>
+                        <div class="card-content">
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                        </div>
+                    </div>        
+            </div>
+			   <div class="col-md-4 md-margin-bottom-40">
+					<div class="card small">
+                        <div class="card-image">
+                             <img class="img-responsive" src="img/service2.jpg" alt="">  
+                            <span class="card-title">Development</span>
+                        </div>
+                        <div class="card-content">
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                        </div>
+                    </div>        
+            </div>
+			   <div class="col-md-4 md-margin-bottom-40">
+					<div class="card small">
+                        <div class="card-image">
+                             <img class="img-responsive" src="img/service3.jpg" alt="">  
+                            <span class="card-title">Quality</span>
+                        </div>
+                        <div class="card-content">
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                            <p>
+                                jkfhk jhliuiw on n hief wuoi khi oeug khkhu iiuui k jhi joiuoi. jkfhkj hliu iwon n hikh khuii uui k jhi joiuoi
+                            </p>
+                        </div>
+                    </div>        
+            </div> 
+        </div>
+		</div>
+		</section>
+		
+		
+		<!-- javascript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="js/jquery.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="materialize/js/materialize.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.flexslider.js"></script>
+<script src="js/animate.js"></script>
+<!-- Vendor Scripts -->
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/custom.js"></script>
+</body>
+</html>
+	
+			
+
